@@ -1,0 +1,5 @@
+flask
+python-dotenv
+pymongo[srv]
+gunicorn
+# gunicorn is used in render.com here we will use flask run only
